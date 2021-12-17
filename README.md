@@ -1,3 +1,15 @@
+<h1 align="center">
+  
+[![cuteredpwnda's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuteredpwnda&count_private=true&show_icons=true&theme=synthwave&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![cuteredpwnda's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=cuteredpwnda&count_private=true&show_icons=true&theme=synthwave&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cuteredpwnda&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+</h1>
+
+
+
 - 👋 Hi, I’m @cuteredpwnda
 - 👀 I’m interested in data science, geodata, opendata, public transportation, biking and, ofc, FOSS
 - 🌱 I’m currently learning to be a better python programmer
