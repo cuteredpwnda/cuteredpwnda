@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cuteredpwnda
 - 👀 I’m interested in data science, geodata, opendata, public transportation, biking and FOSS
-- 🌱 I’m currently learning to be a better python programmer
 - 💞️ I’m looking to collaborate on cute projects concerning opendata, preferably with geodata/OSM
-- 📫 How to reach me via [email](mailto:jonas.neubuerger005@stud.fh-dortmund.de) or shoot me a dm on [telegram](https://t.me/cuteredpwnda) or [matrix](https://matrix.to/#/@cuteredpwnda:fachschaften.org)
+- 📫 How to reach me via [email](mailto:jonas.neubuerger005@stud.fh-dortmund.de) or shoot me a dm on [matrix](https://matrix.to/#/@cuteredpwnda:fachschaften.org)
 
 <h1 align="center">
   
